@@ -1,0 +1,49 @@
+.type1 {background-color: #8766B0;}
+.type2 {background-color: #3BA43A;}
+.type3 {background-color: #009CD4;}
+.type4 {background-color: #AB185F;}
+.type5 {background-color: #F4CB11;}
+.type6 {background-color: #C6C6CC;}
+.type7 {background-color: #0665AC;}
+.type8 {background-color: #E9500A;}
+.type9 {background-color: #DE0A19;}
+.type10 {background-color: #A1B52A;}
+
+.nb {
+	position: absolute;
+	bottom: 1%;
+	left: 1%;
+	font-size: 0.5vw;
+	line-height: 8px;
+	margin: 0px;
+}
+
+.name {
+	text-align: center;
+	font-size: 1.5vw;
+	font-weight: bold;
+	line-height: 3vw;
+}
+
+.weight {
+	position: absolute;
+	bottom: 1%;
+	right: 1%;
+	font-size: 0.5vw;
+	line-height: 8px;
+	margin: 0px;
+}
+
+td {
+	position: relative;
+	width: 5%;
+	height: 50px;
+}
+
+h1 {text-align: center; font-size: 2.5vw;}
+
+.image-holder {width: 100%; margin-bottom: 30px;}
+
+.image-holder img {display: block; margin: auto; max-width: 100%; height: auto;}
+
+table {margin: auto;}
